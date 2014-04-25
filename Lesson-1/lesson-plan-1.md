@@ -79,9 +79,7 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 
 	Explain the students that they have now loaded the **Graphical User Interface** or GUI of the operating system. Ask them to identify any parts that they recognise, for example, the desktop, task bar, menu system, mouse pointer, icons, etc. 
 
-##Extension
-
-Compare a Raspberry Pi to a desktop computer. What are the similarities. What are the differences? In what situations could you use a Raspberry Pi instead of a desktop computer? (e.g. in a weather station)
+6. As an exstention task, ask students to compare a Raspberry Pi to a desktop computer. What are the similarities. What are the differences? In what situations could you use a Raspberry Pi instead of a desktop computer? (e.g. in a weather station)
 
 ##Plenary
 
