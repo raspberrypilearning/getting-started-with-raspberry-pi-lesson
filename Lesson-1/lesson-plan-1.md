@@ -40,7 +40,7 @@ Distribute the [computing device cards](Computing-Device-Card-Sort.zip) to paris
 
 After a few minutes discuss the outcomes of this task with the class. Note that all the cards are types of computing devices! Draw on students answers to discuss what makes a computer.
 
-### Main/Development:
+### Main Development:
 1. Watch the [‘What is a Raspberry Pi?’ offical animation](http://www.youtube.com/watch?v=e0wkVVVLvR8)  
 
 2. Start with all the parts of the Raspberry Pi on a table: 
