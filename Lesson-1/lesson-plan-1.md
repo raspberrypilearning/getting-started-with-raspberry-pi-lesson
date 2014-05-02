@@ -2,7 +2,7 @@
 
 ##Introduction
 
-The Raspberry Pi is a tiny computer less than the size of a pack of cards which can transform the way we perceive and approach computation. In this lesson we will introduce the basic components of the Raspberry Pi and how they relate to a traditional computer. We will discuss the general nature of computation and how the same computer can be programmed to simultaneously do many different things, from word processing to music synthesis. Finally, we will introduce the most basic principle of programming: a program as a sequence of instructions.
+The Raspberry Pi is a tiny computer smaller than a pack of cards, which can transform the way we perceive and approach computation. In this lesson we will introduce the basic components of the Raspberry Pi and how they relate to a traditional computer. We will discuss the general nature of computation and how the same computer can be programmed to simultaneously do many different things, from word processing to music synthesis. Finally, we will introduce the most basic principle of programming: a program as a sequence of instructions.
 
 ## Learning objectives
 
@@ -15,7 +15,7 @@ The Raspberry Pi is a tiny computer less than the size of a pack of cards which 
 ###All students are able to:
 
 - Plug the components of a RPi together.
-- Understand that computers are general-purpose devices, and not every computer obviously resembles one.
+- Understand that computers are general-purpose devices, and that not every computer obviously resembles one.
 - Identify the basic architecture of a computer: processor, storage, and input/output.
 
 ###Most students are able to:
@@ -55,7 +55,7 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 	- monitor cable 
 	- Raspberry Pi 
 	
-	Ask the class to name and describe each component as you connect it to the RPi in front of them. 
+	Ask the class to name and describe each component as you connect it to the Raspberry Pi in front of them. 
 
 	Explain that these components are **hardware**. Hardware refers to the physical elements of the computer that you can see and touch. This includes what is sometimes hidden inside the case. 
 
@@ -67,7 +67,7 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 
 3. Distribute equipment to students and ask them to set up their own Raspberry Pis. Distribute the power supplies last, checking that students have connected their cables and SD cards correctly before they are powered up.
 
-4. Ask students to log into their Pis for the first time using the following login information:
+4. Ask students to log in to their Pis for the first time using the following login information:
 
 	```
 	Login: pi
@@ -92,5 +92,5 @@ Distribute the labels and Raspberry Pi worksheet, and ask students to complete t
 - all outputs (and where they connect to the Pi)
 - processor
 - storage (i.e. where the SD card goes)
-- power 
+- power. 
 
