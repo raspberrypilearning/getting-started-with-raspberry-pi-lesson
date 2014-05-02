@@ -85,8 +85,7 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 6. As an extension task, ask students to compare a Raspberry Pi to a desktop computer. What are the similarities? What are the differences? In what situations could you use a Raspberry Pi instead of a desktop computer? (e.g. in a weather station)
 
 ##Plenary
-
-Distribute the labels and Raspberry Pi worksheet, and ask students to complete the labelling of the Raspberry Pi to include:
+Students are to label a Raspberry Pi to include:
 
 - all inputs (and where they connect to the Pi)
 - all outputs (and where they connect to the Pi)
@@ -94,3 +93,4 @@ Distribute the labels and Raspberry Pi worksheet, and ask students to complete t
 - storage (i.e. where the SD card goes)
 - power. 
 
+This could be completed with sticky notes, a hand drawn diagram on paper, or on a computer using shapes and call out boxes.
