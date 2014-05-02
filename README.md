@@ -3,23 +3,26 @@
 ![](raspberry-pi.png)
 
 ##Introduction
-This lesson has been designed as an introduction to the Raspberry Pi. It could be taught as a stand alone lesson, as a workshop, or as part of a wider scheme of work to introduce students to Raspberry Pi and explain it's main features and setup.
+This lesson has been designed as an introduction to the Raspberry Pi. It could be taught as a standalone lesson, as a workshop, or as part of a wider scheme of work to introduce students to Raspberry Pi and explain its main features and setup.
 
 ##Students will learn:
 
-In this lesson, students will learn 
-- What a Raspberry Pi is, 
-- what are it's main features, 
-- and how to setup and use one.
+In this lesson, students will learn
 
-##Computing Programme of Study Met:
+- What a Raspberry Pi is 
+- Its main features
+- How to setup and use one
+
+##Computing programme of study met:
 
 **KS2:**
-- Recognises that a range of digital devices can be considered a computer. Recognises and can use a range of input and output devices.
+
+- Recognise that a range of digital devices can be considered to be a computer. Recognise and can use a range of input and output devices.
 
 **KS3:**
+
 - Understand the hardware and software components that make up computer systems, and how they communicate with one another and with other systems.
-- Recognises and understands the function of the main internal parts of basic computer architecture.
+- Recognise and understand the function of the main internal parts of basic computer architecture.
 
 [National Curriculum Computing Programmes of Study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
@@ -28,11 +31,11 @@ In this lesson, students will learn
 For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below. In addition, it is suggested that you have your own teacher setup connected to a projector screen for demonstration purposes.
 
 - A Raspberry Pi per pair
-- Latest NOOBS SD card with the Sonic Pi software installed per pair; 
-- A keyboard and mouse connected to the RPi per pair;
-- A monitor connected to the RPi per pair;
-- A miscro USB power apdapter;
-- All necessary cables.
+- Latest NOOBS SD card with the Sonic Pi software installed per pair
+- A keyboard and mouse connected to the RPi per pair
+- A monitor connected to the RPi per pair
+- A micro USB power adaptor
+- All necessary cables
 
 ##Lesson
 
