@@ -36,6 +36,8 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 - A micro USB power adaptor
 - All necessary cables
 
+See [raspberrypi.org/downloads](http://www.raspberrypi.org/downloads/) to download NOOBS/Raspbian and see the [NOOBS setup guide](http://www.raspberrypi.org/help/noobs-setup/) for help with installation.
+
 ## Lesson
 
 - [Lesson 1 - Getting Started with Raspberry Pi](lesson-1/lesson-plan-1.md)
