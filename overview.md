@@ -1,0 +1,1 @@
+This lesson has been designed as an introduction to the Raspberry Pi. It could be taught as a standalone lesson, as a workshop, or as part of a wider scheme of work to introduce students to Raspberry Pi and explain its main features and setup.
