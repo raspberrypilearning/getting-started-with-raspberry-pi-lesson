@@ -40,7 +40,7 @@ See [raspberrypi.org/downloads](http://www.raspberrypi.org/downloads/) to downlo
 
 ## Lesson
 
-- [Lesson 1 - Getting Started with Raspberry Pi](lesson-1/lesson-plan-1.md)
+- [Lesson 1 - Getting Started with Raspberry Pi](lesson-1/lesson.md)
 
 ## Licence
 
