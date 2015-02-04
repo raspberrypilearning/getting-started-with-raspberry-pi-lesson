@@ -38,7 +38,7 @@ We will discuss the general nature of computation and how the same computer can 
 
 ## Starter
 
-Distribute the [computing device cards](../Computing-Device-Card-Sort.zip) to pairs of students. Ask them to match the device to the description. Then ask students to create two piles: one for devices that they think are a type of computer, and one for devices they do not think are types of computers.
+Distribute the [computing device cards](files/Computing-Device-Card-Sort.zip) to pairs of students. Ask them to match the device to the description. Then ask students to create two piles: one for devices that they think are a type of computer, and one for devices they do not think are types of computers.
 
 After a few minutes discuss the outcomes of this task with the class. Note that all the cards are types of computing devices! Draw on students answers to discuss what makes a computer.
 
