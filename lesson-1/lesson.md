@@ -44,7 +44,9 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 
 ## Main development
 
-1. Watch the official ['What is a Raspberry Pi?'](http://www.youtube.com/watch?v=e0wkVVVLvR8) animation.
+1. Watch the official ['What is a Raspberry Pi?'](https://www.raspberrypi.org/help/what-is-a-raspberry-pi/) animation.
+	
+	The animation is available on [Vimeo](https://vimeo.com/90103691) and [YouTube](https://www.youtube.com/watch?v=uXUjwk2-qx4)
 
 1. Start with all the parts of the Raspberry Pi on a table:
 
