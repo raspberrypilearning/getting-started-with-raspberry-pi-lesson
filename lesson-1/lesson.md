@@ -79,11 +79,9 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 
 	Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? *Hint: what might happen if someone was looking over their shoulder?*
 
-	Once logged in, explain to the students that they can give instructions to the Raspberry Pi using the **command line interface**.
+	If you are uisng the latest up to date software then you should boot straight to the desktop environment or **Graphical User Interface** If you are using older software then they will need to load the GUI by typing 'startx'. Once logged in, explain to the students that they can give instructions to the Raspberry Pi using the **command line interface** instead of the GUI.
 
-1. Load the graphical user interface by typing `startx`.
-
-	Explain to the students that they have now loaded the **Graphical User Interface** or GUI of the operating system. Ask them to identify any parts that they recognise such as the desktop, task bar, menu system, mouse pointer, icons, etc.
+1. Ask them to identify any parts that they recognise such as the desktop, task bar, menu system, mouse pointer, icons, etc. Ask students to load a `Terminal` window by clicking on **Menu**, **Accessories** and **Terminal**. This is what the **command line interface** looks like. Ask students to try different commands like `ls` to list files and directories and 'cd' to change between directories.
 
 1. As an extension task, ask students to compare a Raspberry Pi to a desktop computer. What are the similarities? What are the differences? In what situations could you use a Raspberry Pi instead of a desktop computer? (e.g. in a weather station)
 
