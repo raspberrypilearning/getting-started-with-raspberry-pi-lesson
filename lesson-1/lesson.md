@@ -45,7 +45,7 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 ## Main development
 
 1. Watch the official ['What is a Raspberry Pi?'](https://www.raspberrypi.org/help/what-is-a-raspberry-pi/) animation.
-	
+
 	The animation is available on [Vimeo](https://vimeo.com/90103691) and [YouTube](https://www.youtube.com/watch?v=uXUjwk2-qx4)
 
 1. Start with all the parts of the Raspberry Pi on a table:
@@ -79,7 +79,7 @@ After a few minutes discuss the outcomes of this task with the class. Note that 
 
 	Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? *Hint: what might happen if someone was looking over their shoulder?*
 
-	If you are uisng the latest up to date software then you should boot straight to the desktop environment or **Graphical User Interface** If you are using older software then they will need to load the GUI by typing 'startx'. Once logged in, explain to the students that they can give instructions to the Raspberry Pi using the **command line interface** instead of the GUI.
+	If you are using the latest up to date software then you should boot straight to the desktop environment or **Graphical User Interface** If you are using older software then they will need to load the GUI by typing 'startx'. Once logged in, explain to the students that they can give instructions to the Raspberry Pi using the **command line interface** instead of the GUI.
 
 1. Ask them to identify any parts that they recognise such as the desktop, task bar, menu system, mouse pointer, icons, etc. Ask students to load a `Terminal` window by clicking on **Menu**, **Accessories** and **Terminal**. This is what the **command line interface** looks like. Ask students to try different commands like `ls` to list files and directories and 'cd' to change between directories.
 
